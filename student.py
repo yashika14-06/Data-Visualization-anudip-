@@ -1,7 +1,4 @@
-# students = [
-#     {'stdid':'std101','stdname':'ashish kumar','standard':'10th','age':15,'hindi':67,'english':89,'maths':87,'science':89,'computer':90,'total':422},
-#     {'stdid':'std102','stdname':'abhishek kumar','standard':'10th','age':15,'hindi':67,'english':89,'maths':87,'science':89,'computer':90,'total':422}
-#     ]
+
 import pandas as pd
 
 students = [
