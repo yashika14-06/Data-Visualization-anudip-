@@ -34,18 +34,3 @@ for name , marks in top:
 
 
 
-# students = [
-#     {'stdid': 'std101', 'stdname': 'Ashish Kumar', 'standard': '10th', 'age': 15, 'hindi': 67, 'english': 89, 'maths': 87, 'science': 89, 'computer': 90, 'total': 422},
-#     {'stdid': 'std102', 'stdname': 'Abhishek Kumar', 'standard': '10th', 'age': 15, 'hindi': 67, 'english': 89, 'maths': 87, 'science': 89, 'computer': 90, 'total': 422},
-#     {'stdid': 'std103', 'stdname': 'Aman', 'standard': '10th', 'age': 15, 'hindi': 45, 'english': 56, 'maths': 78, 'science': 78, 'computer': 45, 'total': 302},
-#     {'stdid': 'std104', 'stdname': 'Rahul', 'standard': '10th', 'age': 14, 'hindi': 67, 'english': 49, 'maths': 56, 'science': 45, 'computer': 78, 'total': 295},
-#     {'stdid': 'std105', 'stdname': 'Ruby', 'standard': '10th', 'age': 13, 'hindi': 89, 'english': 67, 'maths': 45, 'science': 45, 'computer': 56, 'total': 258},
-#     {'stdid': 'std106', 'stdname': 'Suman', 'standard': '10th', 'age': 15, 'hindi': 90, 'english': 90, 'maths': 56, 'science': 78, 'computer': 89, 'total': 403},
-#     {'stdid': 'std107', 'stdname': 'Saurabh', 'standard': '10th', 'age': 15, 'hindi': 45, 'english': 45, 'maths': 23, 'science': 67, 'computer': 67, 'total': 247},
-#     {'stdid': 'std108', 'stdname': 'Sumit', 'standard': '10th', 'age': 14, 'hindi': 23, 'english': 56, 'maths': 78, 'science': 78, 'computer': 78, 'total': 313},
-#     {'stdid': 'std109', 'stdname': 'Kamlesh', 'standard': '10th', 'age': 15, 'hindi': 67, 'english': 78, 'maths': 67, 'science': 78, 'computer': 78, 'total': 368},
-#     {'stdid': 'std110', 'stdname': 'Rohan', 'standard': '10th', 'age': 15, 'hindi': 12, 'english': 24, 'maths': 45, 'science': 56, 'computer': 56, 'total': 171}
-# ]
-# for i in students:
-#     for j in i:
-#         if(student.values('english') > 50):
